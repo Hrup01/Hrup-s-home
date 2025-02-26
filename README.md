@@ -26,4 +26,4 @@
    - 用户和房间信息保存到文件中，程序重启后数据不丢失。
 
 ## 运行效果
-![运行效果]
+![运行效果]https://github.com/Hrup01/Hrup-s-home/blob/82117f781dc20916e4f6a2b9818a3c0fa549226c/image/4b39a1af8dd3109e3e2cb820bef89a4.png
