@@ -26,4 +26,4 @@
    - 用户和房间信息保存到文件中，程序重启后数据不丢失。
 
 ## 运行效果
-![运行效果]![4b39a1af8dd3109e3e2cb820bef89a4](https://github.com/user-attachments/assets/fa0d2d6b-c5b7-4d0a-a995-3f40fc7f81b7)
+![运行效果]
