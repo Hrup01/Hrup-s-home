@@ -1,0 +1,17 @@
+set [key] [value] - 存储key - value类型数据
+get [key] - 获取key对应的value
+del [key] - 删除key对应的value
+lpush [key] [value] - 在双向链表左端添加数据
+rpush [key] [value] - 在双向链表右端添加数据
+range [key] [start] [end] - 返回key对应start到end位置的数据
+len [key] - 获取key存储数据的个数
+lpop [key] - 获取并删除key最左端的数据
+rpop [key] - 获取并删除key最右端的数据
+ldel [key] - 删除key所有的数据
+hset [key] [field] [value] - 存储key对应的键值对数据
+hget [key] [field] - 获取key中field字段的value值
+hdel [key] [field] - 删除key中field字段及其value值
+hdel [key] - 删除key中所有数据
+ping - 心跳指令，服务端响应PONG
+help - 获取所有command指令的使用方式
+help [command] - 获取单个command指令适用方式
